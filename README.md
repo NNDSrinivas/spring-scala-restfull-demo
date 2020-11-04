@@ -1,5 +1,11 @@
 # spring-boot-scala
 
+## pre-requsit
+
+Maven
+oracle jdk 8
+git
+
 ### spring-boot-scala rest api server
 
 
