@@ -5,7 +5,7 @@
 
 #### maven 
 
-git clone https://github.com/wonwoo/spring-boot-scala.git
+git clone https://github.com/NNDSrinivas/spring-scala-restfull-demo.git
 cd spring-boot-scala
 mvn spring-boot:run
 
